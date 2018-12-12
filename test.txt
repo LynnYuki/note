@@ -1,10 +1,2 @@
-hello world~
-hello world~
-hello world~
-hello world~
-hello world~
-<<<<<<< HEAD
-hello world~~
-=======
-hello world~~
->>>>>>> feature1
+git config --global alias.lg "log --color --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit"
+//…Ë÷√ git lg …œµ€÷∏¡Ó
